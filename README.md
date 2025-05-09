@@ -75,5 +75,4 @@ The application works by:
 - Large result sets may take longer to process
 
 ## License
-
-MIT
+[MIT License]
